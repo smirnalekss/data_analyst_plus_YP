@@ -1,5 +1,5 @@
 # Yandex Practicum - Data analyst plus
-`(in progress)`
+`(graduated in February 2024)`
 
 В данном разделе находятся проекты, выполненные в ходе обучения на курсе `Аналитик данных плюс` от Яндекс.Практикума.
 
