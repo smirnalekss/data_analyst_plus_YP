@@ -15,7 +15,7 @@
 - Основы машинного обучения (обучение с учителем и без, выборки, библиотека sklearn)
 
 # Certificate
-![Certificate]()
+![Certificate](https://github.com/smirnalekss/data_analyst_plus_YP/blob/main/SmirnovaAS_certificate_2.png)
 
 # Описание выполненных проектов
   
